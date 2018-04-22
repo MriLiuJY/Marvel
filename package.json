@@ -18,6 +18,9 @@
   "homepage": "https://github.com/MriLiuJY/Marvel#readme",
   "description": "",
   "dependencies": {
-    "koa": "^2.5.0"
+    "ejs": "^2.5.9",
+    "koa": "^2.5.0",
+    "koa-views": "^6.1.4",
+    "pug": "^2.0.3"
   }
 }
